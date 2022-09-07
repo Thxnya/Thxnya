@@ -32,9 +32,21 @@ Here are some ideas to get you started:
 
 
 ## Profile
-- Name : Ahn SeongHyeon
-- Email : anmin621@naver.com
+- 😄 Name : Ahn SeongHyeon
+- 📫 Email : anmin621@naver.com
 - 🎓 PusanNationalUniv. Industrial Engineering(2008.03 ~ 2016.02)
 - 📰 ADsP(Advanced Data Analytics Semi-Professional)
 - 🌱 I’m currently learning [Data Science, Artificial Intelligence, Machine Learning, Deep Learning]
+
+## 경력
+- (한국품질재단) K-디지털 트레이닝 빅데이터 분석기반 데이터 크리에이터 양성 과정(22.04.26 - 22.10.17)
+  - Oracle
+  - Python
+  - R
+  - Django
+  - ML
+  - DL
+  - 미니 프로젝트1
+  - 미니 프로젝트2
+  - 최종 프로젝트
 
