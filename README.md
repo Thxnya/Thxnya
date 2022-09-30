@@ -42,45 +42,45 @@ Here are some ideas to get you started:
 ## 경력
 ### - (한국품질재단) K-디지털 트레이닝 빅데이터 분석기반 데이터 크리에이터 양성 과정(22.04.26 - 22.10.17)
   #### - Oracle<br/>
-    [문법1](https://github.com/Thxnya/StudyOracle)<br/>
-    [문법2](https://github.com/Thxnya/StudyOracle22.07)
+  [문법1](https://github.com/Thxnya/StudyOracle)<br/>
+  [문법2](https://github.com/Thxnya/StudyOracle22.07)
   
   #### - Python<br/>
-    [문법](https://github.com/Thxnya/StudyPython22)<br/>
-    [Numpy, Pandas](https://github.com/Thxnya/StudyPython22.05)<br/>
-    [데이터 분석 및 크롤링](https://github.com/Thxnya/StudyPython22.06)
+  [문법](https://github.com/Thxnya/StudyPython22)<br/>
+  [Numpy, Pandas](https://github.com/Thxnya/StudyPython22.05)<br/>
+  [데이터 분석 및 크롤링](https://github.com/Thxnya/StudyPython22.06)
   
   #### - R<br/>
-    [문법](https://github.com/Thxnya/StudyR)
+  [문법](https://github.com/Thxnya/StudyR)
   
   #### - Django<br/>
-    [웹구현](https://github.com/Thxnya/StudyDjango22.07)
+  [웹구현](https://github.com/Thxnya/StudyDjango22.07)
   
   #### - ML<br/>
-    [리포지토리 링크](https://github.com/Thxnya/StudyML22.08)
+  [리포지토리 링크](https://github.com/Thxnya/StudyML22.08)
   
   #### - DL
     
   
   #### - 미니 프로젝트1 - 중증장애인 교통배려시설 현황 및 문제점 분석<br/>
-    [리포지토리 링크](https://github.com/Thxnya/MiniProject01)<br/>
-    공공 데이터 수집 및 분석(csv 다운로드, api 사용)<br/>
-    데이터 분석 후 시각화 및 인사이트 도출
+  [리포지토리 링크](https://github.com/Thxnya/MiniProject01)<br/>
+  공공 데이터 수집 및 분석(csv 다운로드, api 사용)<br/>
+  데이터 분석 후 시각화 및 인사이트 도출
   
   #### - 미니 프로젝트2 - 개인성향에 맞는 어학시험 종류 및 점수 예측<br/>
-    [리포지토리 링크](https://github.com/Thxnya/MiniProject02)<br/>
-    Django를 이용한 웹구현<br/>
-    Oracle 연동을 통한 데이터 수집<br/>
-    수집된 데이터를 기반으로 MBTI, 전공, 공부방법별 선호도, 집단간 차이분석<br/>
-    Machine Learning을 이용한 사용자의 정보를 이용한 적합 어학시험과 점수 예측
+  [리포지토리 링크](https://github.com/Thxnya/MiniProject02)<br/>
+  Django를 이용한 웹구현<br/>
+  Oracle 연동을 통한 데이터 수집<br/>
+  수집된 데이터를 기반으로 MBTI, 전공, 공부방법별 선호도, 집단간 차이분석<br/>
+  Machine Learning을 이용한 사용자의 정보를 이용한 적합 어학시험과 점수 예측
   
   #### - 최종 프로젝트(진행중) - 인터넷 강의 수강생을 위한 편의성 제공툴 개발<br/>
-    <br/>
-    강의 자료에 나오는 키워드의 영상 타임스탬프 검색기능<br/>
-      OpenCV를 이용한 이미지 유사도 체크, 중복 제거<br/>
-      EasyOCR의 기존 글자 인지모델 정확도 향상<br/>
-    
-    영상 해쉬태그 
-      KeyBERT를 이용한 키워드 추출
+  <br/>
+  강의 자료에 나오는 키워드의 영상 타임스탬프 검색기능<br/>
+    OpenCV를 이용한 이미지 유사도 체크, 중복 제거<br/>
+    EasyOCR의 기존 글자 인지모델 정확도 향상<br/>
 
-    크롤링을 이용한 강의와 관련된 서적정보 
+  영상 해쉬태그 
+    KeyBERT를 이용한 키워드 추출
+
+  크롤링을 이용한 강의와 관련된 서적정보 
