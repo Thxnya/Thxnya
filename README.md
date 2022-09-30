@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   ##### 강의 자료에 나오는 키워드의 영상 타임스탬프 검색기능<br/>
   OpenCV를 이용한 이미지 유사도 체크, 중복 제거<br/>
   EasyOCR의 기존 글자 인지모델 정확도 향상<br/>
-<br/>
+
   ##### 영상 해쉬태그 <br/>
     KeyBERT를 이용한 키워드 추출
 
