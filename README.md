@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 📫 Email : anmin621@naver.com
 - 🎓 PusanNationalUniv. Industrial Engineering(2008.03 ~ 2016.02)
 - 📰 ADsP(Advanced Data Analytics Semi-Professional)
+- 📰 SQLD(Structured Query Language Developer)
 - 🌱 I’m currently learning [Data Science, Artificial Intelligence, Machine Learning, Deep Learning]
 
 ## 경력
