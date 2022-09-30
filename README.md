@@ -59,9 +59,9 @@ Here are some ideas to get you started:
   #### - ML<br/>
   [리포지토리 링크](https://github.com/Thxnya/StudyML22.08)
   
-  #### - DL
+  #### - DL<br/>
+  TensorFlow, Keras 라이브러리를 이용한 CNN, RNN 학습
     
-  
   #### - 미니 프로젝트1 - 중증장애인 교통배려시설 현황 및 문제점 분석<br/>
   [리포지토리 링크](https://github.com/Thxnya/MiniProject01)<br/>
   공공 데이터 수집 및 분석(csv 다운로드, api 사용)<br/>
@@ -83,4 +83,4 @@ Here are some ideas to get you started:
   ##### 영상 해쉬태그 <br/>
     KeyBERT를 이용한 키워드 추출
 
-  ##### 크롤링을 이용한 강의와 관련된 서적정보 
+  ##### 크롤링을 이용한 강의와 관련된 서적정보 제공
