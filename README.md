@@ -19,6 +19,19 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## Profile
+- 😄 Name : Ahn SeongHyeon
+- 📫 Email : anmin621@naver.com
+- 🎓 PusanNationalUniv. Industrial Engineering(2008.03 ~ 2016.02)
+- 📰 ADsP(Advanced Data Analytics Semi-Professional)
+- 📰 SQLD(Structured Query Language Developer)
+- 🌱 I’m currently learning [Data Science, Artificial Intelligence, Machine Learning, Deep Learning]
+
+<br>
+Skills
+<br>
+<br>
+
 ![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
 ![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
@@ -31,19 +44,39 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 
-
-
-## Profile
-- 😄 Name : Ahn SeongHyeon
-- 📫 Email : anmin621@naver.com
-- 🎓 PusanNationalUniv. Industrial Engineering(2008.03 ~ 2016.02)
-- 📰 ADsP(Advanced Data Analytics Semi-Professional)
-- 📰 SQLD(Structured Query Language Developer)
-- 🌱 I’m currently learning [Data Science, Artificial Intelligence, Machine Learning, Deep Learning]
+<br>
 
 ## 경력
 ### - (한국품질재단) K-디지털 트레이닝 빅데이터 분석기반 데이터 크리에이터 양성 과정(22.04.26 - 22.10.17)
-  #### - Oracle<br/>
+    
+  #### - 미니 프로젝트1 - 중증장애인 교통배려시설 현황 및 문제점 분석<br/>
+  [리포지토리 링크](https://github.com/Thxnya/MiniProject01)<br/>
+  공공 데이터 수집 및 분석(csv 다운로드, api 사용)<br/>
+  데이터 분석 후 시각화 및 인사이트 도출
+  
+  #### - 미니 프로젝트2 - 개인성향에 맞는 어학시험 종류 및 점수 예측<br/>
+  [리포지토리 링크](https://github.com/Thxnya/MiniProject02)<br/>
+  Django를 이용한 웹구현<br/>
+  Oracle 연동을 통한 데이터 수집<br/>
+  수집된 데이터를 기반으로 MBTI, 전공, 공부방법별 선호도, 집단간 차이분석<br/>
+  랜덤 포레스트 을 이용한 사용자의 정보를 이용한 적합 어학시험과 점수 예측
+  
+  #### - 최종 프로젝트(진행중) - 인터넷 강의 수강생을 위한 편의성 제공 서비스 개발<br/>
+  
+  [주요 역할]
+  
+  ##### EasyOCR 프레임워크를 사용한 영상내 텍스트 인식<br/>
+    일반학습, 전이학습을 통한 EasyOCR의 글자 인지모델 정확도 향상
+
+  ##### STT, NLP를 이용한 질의응답<br/>
+    SpeechRecognition 라이브러리의 구글api를 사용한 음성인식
+    KoNLPy를 이용한 명사추출
+    Flask 라이브러리를 이용한 웹 기능구현
+    비동기 처리(Jquery.Ajax)를 이용한 결과 출력
+
+---
+
+#### - Oracle<br/>
   [문법1](https://github.com/Thxnya/StudyOracle)<br/>
   [문법2](https://github.com/Thxnya/StudyOracle22.07)
   
@@ -63,26 +96,3 @@ Here are some ideas to get you started:
   
   #### - DL<br/>
   TensorFlow, Keras 라이브러리를 이용한 CNN, RNN 학습
-    
-  #### - 미니 프로젝트1 - 중증장애인 교통배려시설 현황 및 문제점 분석<br/>
-  [리포지토리 링크](https://github.com/Thxnya/MiniProject01)<br/>
-  공공 데이터 수집 및 분석(csv 다운로드, api 사용)<br/>
-  데이터 분석 후 시각화 및 인사이트 도출
-  
-  #### - 미니 프로젝트2 - 개인성향에 맞는 어학시험 종류 및 점수 예측<br/>
-  [리포지토리 링크](https://github.com/Thxnya/MiniProject02)<br/>
-  Django를 이용한 웹구현<br/>
-  Oracle 연동을 통한 데이터 수집<br/>
-  수집된 데이터를 기반으로 MBTI, 전공, 공부방법별 선호도, 집단간 차이분석<br/>
-  Machine Learning을 이용한 사용자의 정보를 이용한 적합 어학시험과 점수 예측
-  
-  #### - 최종 프로젝트(진행중) - 인터넷 강의 수강생을 위한 편의성 제공툴 개발<br/>
-  
-  ##### 강의 자료에 나오는 키워드의 영상 타임스탬프 검색기능<br/>
-    OpenCV를 이용한 이미지 유사도 체크, 중복 제거
-    EasyOCR의 기존 글자 인지모델 정확도 향상
-
-  ##### 영상 해쉬태그 <br/>
-    KeyBERT를 이용한 키워드 추출
-
-  ##### 크롤링을 이용한 강의와 관련된 서적정보 제공
