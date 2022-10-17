@@ -57,7 +57,7 @@ Skills
   <br>
   
   #### - 미니 프로젝트2 - 개인성향에 맞는 어학시험 종류 및 점수 예측<br/><br>
-  [리포지토리 링크](https://github.com/Thxnya/MiniProject02){:target="_blank"}<br/>
+  <a href="https://github.com/Thxnya/MiniProject02" target="_blank"> 리포지토리 링크 </a><br/>
   Django를 이용한 웹구현<br/>
   Oracle 연동을 통한 데이터 수집<br/>
   수집된 데이터를 기반으로 MBTI, 전공, 공부방법별 선호도, 집단간 차이분석<br/>
@@ -91,22 +91,22 @@ Skills
 ---
 
 #### - Oracle<br/>
-  [문법1](https://github.com/Thxnya/StudyOracle) {:target="_blank"}<br/>
-  [문법2](https://github.com/Thxnya/StudyOracle22.07){:target="_blank"}
+  [문법1](https://github.com/Thxnya/StudyOracle)<br/>
+  [문법2](https://github.com/Thxnya/StudyOracle22.07)
   
   #### - Python<br/>
-  [문법](https://github.com/Thxnya/StudyPython22){:target="_blank"}<br/>
-  [Numpy, Pandas](https://github.com/Thxnya/StudyPython22.05){:target="_blank"}<br/>
-  [데이터 분석 및 크롤링](https://github.com/Thxnya/StudyPython22.06){:target="_blank"}
+  [문법](https://github.com/Thxnya/StudyPython22)<br/>
+  [Numpy, Pandas](https://github.com/Thxnya/StudyPython22.05)<br/>
+  [데이터 분석 및 크롤링](https://github.com/Thxnya/StudyPython22.06)
   
   #### - R<br/>
-  [문법](https://github.com/Thxnya/StudyR){:target="_blank"}
+  [문법](https://github.com/Thxnya/StudyR)
   
   #### - Django<br/>
-  [웹구현](https://github.com/Thxnya/StudyDjango22.07){:target="_blank"}
+  [웹구현](https://github.com/Thxnya/StudyDjango22.07)
   
   #### - ML<br/>
-  [리포지토리 링크](https://github.com/Thxnya/StudyML22.08){:target="_blank"}
+  [리포지토리 링크](https://github.com/Thxnya/StudyML22.08)
   
   #### - DL<br/>
   TensorFlow, Keras 라이브러리를 이용한 CNN, RNN 학습
