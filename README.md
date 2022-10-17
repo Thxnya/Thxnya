@@ -50,14 +50,14 @@ Skills
 ### - (한국품질재단) K-디지털 트레이닝 빅데이터 분석기반 데이터 크리에이터 양성 과정(22.04.26 - 22.10.17)<br><br>
     
   #### - 미니 프로젝트1 - 중증장애인 교통배려시설 현황 및 문제점 분석<br/><br>
-  [리포지토리 링크](https://github.com/Thxnya/MiniProject01)<br/>
+  [리포지토리 링크](https://github.com/Thxnya/MiniProject01){:target="_blank"}<br/>
   공공 데이터 수집 및 분석(csv 다운로드, api 사용)<br/>
   데이터 분석 후 시각화 및 인사이트 도출
   
   <br>
   
   #### - 미니 프로젝트2 - 개인성향에 맞는 어학시험 종류 및 점수 예측<br/><br>
-  [리포지토리 링크](https://github.com/Thxnya/MiniProject02)<br/>
+  [리포지토리 링크](https://github.com/Thxnya/MiniProject02){:target="_blank"}<br/>
   Django를 이용한 웹구현<br/>
   Oracle 연동을 통한 데이터 수집<br/>
   수집된 데이터를 기반으로 MBTI, 전공, 공부방법별 선호도, 집단간 차이분석<br/>
@@ -91,22 +91,22 @@ Skills
 ---
 
 #### - Oracle<br/>
-  [문법1](https://github.com/Thxnya/StudyOracle)<br/>
-  [문법2](https://github.com/Thxnya/StudyOracle22.07)
+  [문법1](https://github.com/Thxnya/StudyOracle){:target="_blank"}<br/>
+  [문법2](https://github.com/Thxnya/StudyOracle22.07){:target="_blank"}
   
   #### - Python<br/>
-  [문법](https://github.com/Thxnya/StudyPython22)<br/>
-  [Numpy, Pandas](https://github.com/Thxnya/StudyPython22.05)<br/>
-  [데이터 분석 및 크롤링](https://github.com/Thxnya/StudyPython22.06)
+  [문법](https://github.com/Thxnya/StudyPython22){:target="_blank"}<br/>
+  [Numpy, Pandas](https://github.com/Thxnya/StudyPython22.05){:target="_blank"}<br/>
+  [데이터 분석 및 크롤링](https://github.com/Thxnya/StudyPython22.06){:target="_blank"}
   
   #### - R<br/>
-  [문법](https://github.com/Thxnya/StudyR)
+  [문법](https://github.com/Thxnya/StudyR){:target="_blank"}
   
   #### - Django<br/>
-  [웹구현](https://github.com/Thxnya/StudyDjango22.07)
+  [웹구현](https://github.com/Thxnya/StudyDjango22.07){:target="_blank"}
   
   #### - ML<br/>
-  [리포지토리 링크](https://github.com/Thxnya/StudyML22.08)
+  [리포지토리 링크](https://github.com/Thxnya/StudyML22.08){:target="_blank"}
   
   #### - DL<br/>
   TensorFlow, Keras 라이브러리를 이용한 CNN, RNN 학습
