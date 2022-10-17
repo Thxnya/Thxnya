@@ -50,7 +50,7 @@ Skills
 ### - (한국품질재단) K-디지털 트레이닝 빅데이터 분석기반 데이터 크리에이터 양성 과정(22.04.26 - 22.10.17)<br><br>
     
   #### - 미니 프로젝트1 - 중증장애인 교통배려시설 현황 및 문제점 분석<br/><br>
-  [리포지토리 링크](https://github.com/Thxnya/MiniProject01){:target="_blank"}<br/>
+  <a href="https://github.com/Thxnya/MiniProject01" target="_blank"> 리포지토리 링크 </a><br/>
   공공 데이터 수집 및 분석(csv 다운로드, api 사용)<br/>
   데이터 분석 후 시각화 및 인사이트 도출
   
@@ -91,7 +91,7 @@ Skills
 ---
 
 #### - Oracle<br/>
-  [문법1](https://github.com/Thxnya/StudyOracle){:target="_blank"}<br/>
+  [문법1](https://github.com/Thxnya/StudyOracle) {:target="_blank"}<br/>
   [문법2](https://github.com/Thxnya/StudyOracle22.07){:target="_blank"}
   
   #### - Python<br/>
